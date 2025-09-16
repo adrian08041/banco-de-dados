@@ -16,6 +16,6 @@ A disciplina tem como foco apresentar os fundamentos e práticas de Banco de Dad
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **SGBD**: [MySQL / PostgreSQL / SQL Server / Oracle / MongoDB / etc.]
-- **Linguagem de Programação**: [ Java ] 
+- **SGBD**: [PostgreSQL]
+-
 
